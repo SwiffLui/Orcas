@@ -1,0 +1,31 @@
+h1{text-align: center; 
+	font-size: 52px; 
+	padding-top:50px;
+	padding-bottom:30px; 
+	border-bottom-style:solid;
+	border-top-style:solid;
+	border-color:white;
+	border-width:5px;
+background-color:#89BAD5;}
+
+body{background-color:#23303E;}
+
+h2{margin-right: 100px; 
+	background-color:#FFFFFF;
+text-align: center;}
+.Aboutme{margin-right:100px; 
+	background-color:#C6E9F8;
+font-family: 'Cookie', cursive;
+font-size: 30px;}
+.row{border-bottom-style:solid;
+	border-color:white;
+border-width:3px;
+padding-bottom: 30px;}
+
+.LinkedIn{margin-left: 200px}
+.Instagram{text-align:center;}
+.Facebook{margin-right: 200px}
+
+.column-left{ float: left; width: 33%; }
+.column-right{ float: right; width: 33%; }
+.column-center{ display: inline-block; width: 33%; }
